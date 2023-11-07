@@ -1,0 +1,131 @@
+[
+  {
+      "category": "Men",
+      "name": "Джинси 'Slim Fit'",
+      "price": "$49.99",
+      "imagePath": "https://static.sinsay.com/media/catalog/product/5/3/5312F-55J-001-1-730324_1.jpg",
+      "sku": "789012",
+      "color": "Синій",
+      "favorite": false,
+      "description": ["застібка на кнопки та блискавицю", "2 задні кишені", "2 передні кишені", "легкий варений ефект"]
+  },
+  {
+      "category": "Men",
+      "name": "Джемпер",
+      "price": "$39.99",
+      "imagePath": "https://static.sinsay.com/media/catalog/product/0/4/0498A-90X-001-1-740132_1.jpg",
+      "sku": "345678",
+      "color": "Чорний",
+      "favorite": false,
+      "description": ["100% бавовна", "кругла горловина", "довгі рукави", "опущена лінія плечей"]
+  },
+  {
+      "category": "Women",
+      "name": "Жіноча сукня 'вечірнє вбрання'",
+      "price": "$59.99",
+      "imagePath": "https://static.sinsay.com/media/catalog/product/1/0/1076X-99X-001-1-733519_1.jpg",
+      "sku": "901234",
+      "color": "Білий",
+      "favorite": false,
+      "description": [ "довжина міді", "на бретельках", "тканина в рубчик"]
+  },
+  {
+      "category": "Men",
+      "name": "Сорочка regular fit",
+      "price": "$69.99",
+      "imagePath": "https://static.sinsay.com/media/catalog/product/1/9/1911O-08X-001-1-742619.jpg",
+      "sku": "567890",
+      "color": "Сірий",
+      "favorite": false,
+      "description": ["100% бавовна", "класичний комір", "довгі рукави", "застібка на ґудзики", "1 кишеня"]
+  },
+  {
+      "category": "Men",
+      "name": "Шапка-біні",
+      "price": "$44.99",
+      "imagePath": "https://static.sinsay.com/media/catalog/product/4/3/4338A-01M-001-1-740675.jpg",
+      "sku": "654321",
+      "color": "Чорний",
+      "favorite": false,
+      "description": ["декоративна нашивка"]
+  },
+  {
+      "category": "Children",
+      "name": "Лонгсліви",
+      "price": "$29.99",
+      "imagePath": "https://static.sinsay.com/media/catalog/product/8/6/8625M-59X-001-1-523487_7.jpg",
+      "sku": "432109",
+      "color": "Синій",
+      "favorite": false,
+      "description": [ "класичний крій", "кругла горловина", "застібка на кнопки", "довгі рукави", "100% бавовна"]
+  },
+  {
+      "category": "Children",
+      "name": "Утеплена стьобана куртка",
+      "price": "$34.99",
+      "imagePath": "https://static.sinsay.com/media/catalog/product/8/3/8368N-30X-001-1-507701_29.jpg",
+      "sku": "210987",
+      "color": "Чорний",
+      "favorite": false,
+      "description": [ "зручний капюшон", "застібка на блискавку", "дві кишені", "декоративний принт", "меланжевий трикотаж"]
+  },
+  {
+      "category": "Children",
+      "name": "Світшот",
+      "price": "$24.99",
+      "imagePath": "https://static.sinsay.com/media/catalog/product/7/0/7086Y-01M-001-1-737778.jpg",
+      "sku": "876543",
+      "color": "Коричневий",
+      "favorite": false
+  },
+  {
+    "category": "Children",
+    "name": "Лонгслів Disney",
+    "price": "$14.99",
+    "imagePath": "https://static.sinsay.com/media/catalog/product/Z/E/ZE087-03X-001-1-726028.jpg",
+    "sku": "876553",
+    "color": "Рожевий",
+    "favorite": false,
+    "description": ["класичний крій", "кругла горловина", "довгі рукави", "принт із з персонажами Disney"]
+},
+{
+  "category": "Women",
+  "name": "Джемпер в рубчик",
+  "price": "$8.99",
+  "imagePath": "https://static.sinsay.com/media/catalog/product/7/3/7383J-99X-002-1-729072.jpg",
+  "sku": "876753",
+  "color": "Чорний",
+  "favorite": false,
+  "description": ["обтислий фасон", "кругла горловина", "довгі рукави", "тканина в рубчик"]
+},
+{
+  "category": "Women",
+  "name": "Джинси mom high waist",
+  "price": "$18.99",
+  "imagePath": "https://static.sinsay.com/media/catalog/product/6/1/6193J-01J-001-1-732877_1.jpg",
+  "sku": "876853",
+  "color": "Кремовий",
+  "favorite": false,
+  "description": ["100% бавовна", "фасон mom", "висока посадка", "застібка на блискавку та ґудзик", "чотири кишені"]
+},
+{
+  "category": "Women",
+  "name": "Джемпер із м'якого трикотажу",
+  "price": "$7.99",
+  "imagePath": "https://static.sinsay.com/media/catalog/product/7/3/7394J-MLC-001-1-732887_1.jpg",
+  "sku": "876953",
+  "color": "Різнобарвний",
+  "favorite": false,
+  "description": ["крій oversize", "комір-стійка", "опущена лінія плечей", "леопардовий візерунок", "облямівка гумкою в рубчик"]
+},
+{
+  "category": "Women",
+  "name": "Мінісукня",
+  "price": "$27.99",
+  "imagePath": "https://static.sinsay.com/media/catalog/product/3/2/3227X-99X-001-1-735698.jpg",
+  "sku": "877953",
+  "color": "Чорний",
+  "favorite": false,
+  "description": ["довжина міні", "V-подібний викот", "застібка на блискавку", "ґудзики зі стразів", "декоративні зборки"]
+}
+]

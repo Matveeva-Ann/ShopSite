@@ -1,0 +1,11 @@
+
+.cross {
+  margin-left: auto;
+  display: block;
+  cursor: pointer;
+  transition: transform 250ms linear;
+}
+
+.cross:active {
+  transform: scale(1.2);
+}
